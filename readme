@@ -1,0 +1,5 @@
+pip install google-api-python-client
+pip install python-dateutil
+
+
+Before using fill in config.py file.
