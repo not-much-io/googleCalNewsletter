@@ -1,3 +1,7 @@
+Tool that parses Google Calendar for x following day events and sends them to a email address as newsletter.
+
+prerequisite libraries:
+
 pip install google-api-python-client
 pip install python-dateutil
 
