@@ -17,7 +17,7 @@ class mailer:
         msg = MIMEMultipart()
         msg['From'] = fromaddr
         msg['To'] = toaddr
-        msg['Subject'] = "Olen Kirja pealkiri"
+        msg['Subject'] = self.subject
 
         body = self.body
         # plain may be more practical. But with html we could use more fancier template for newsletter.
