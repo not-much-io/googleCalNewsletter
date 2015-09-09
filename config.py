@@ -1,12 +1,7 @@
 conf = dict(
-    # google API key  https://console.developers.google.com/   ( API & Auth -> Credentials -> Add Credentials -> API Key
-    apiKey = '######################',
-    toEmail = 'kuhusaatatahan@aadress.ee',
+    toEmail = 'timosemail@gmail.com',
     # Google e-mail address
-    fromEmail = 'testiuser@gmail.com',
+    fromEmail = 'evilperson@gmail.com',
     # Google password
-    password = 'mingiparool',
-    #Calendar id
-    calendarId = 'c28hbeqbtg3ri59eebm6fp3bto@group.calendar.google.com'
-
+    password = 'mypassword'
 )
